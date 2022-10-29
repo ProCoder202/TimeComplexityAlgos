@@ -1,1 +1,5 @@
 <!--Please give Time Complexity of Most Used Algorithms-->
+1. Binary Search -o(logn)
+2.Linear Search O(n)
+3. Linear SOrt O(n)^2
+4. Binary Sort O(logn)
